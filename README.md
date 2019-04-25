@@ -30,7 +30,7 @@ This project is a TensorFlow and Keras implement of Residual Encoder Network (ba
   * matplotlib
   * opencv
 * please install pyramid pooling mudole using the following command: ```pip install pyramid_pooling_module```
-* You can
+* You can download the pre-trained module [here](https://github.com/ubwzwd/7398project/releases/tag/v1.0). Unzip all the files under `summary` folder.
 * Put the images you want to train under `train` folder. Put the images you want to test under `test` folder. These images are supposed to be coloful images.
 * To test, just run `test.py` in terminal. To train, run `train.py`.
 * The output images of test will be put under `summary/test/images/`.
