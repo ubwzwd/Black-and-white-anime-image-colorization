@@ -17,7 +17,7 @@ This project is a TensorFlow and Keras implement of Residual Encoder Network (ba
   * `test.py`: test your own images and save the output images
   * `vgg`: pretrained vgg module
   * `summary`: stored graph (checkpoint), part of trainning results, and test results
-  * `sample_output`: samples, every picture is concatenated by 3 images, the gray-scale image, the inference image and the original image.
+  * `sample_output`: samples, every picture is concatenated by 3 images, the gray-scale image, the inference and the original image.
 * `docs`: papers we read and the presentation material
 
 ## How to use
@@ -42,6 +42,8 @@ This project is a TensorFlow and Keras implement of Residual Encoder Network (ba
 * ![1](/README_utils/3.png)
 * ![1](/README_utils/4.png)
 * ![1](/README_utils/5.png)
+
+From left to right, they are the gray-scale images, inference and the original images.
 
 * PS: The pre-trained module is only trained with about 1k images and 6k epochs due to lack of computation and break down of our graphic cards. So the result may not be good enough. We strongly encourage you to train it with more images and epochs.
 

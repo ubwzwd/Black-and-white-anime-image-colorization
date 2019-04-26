@@ -106,3 +106,9 @@ venv.bak/
 *.png
 *.WUDI
 code/summary/checkpoint
+*.npy
+*.jpeg
+*.data-00001-of-00002
+*.data-00000-of-00002
+*.index
+*.meta
