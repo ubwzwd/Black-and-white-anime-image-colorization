@@ -43,7 +43,7 @@ This project is a TensorFlow and Keras implement of Residual Encoder Network (ba
 * ![1](/README_utils/4.png)
 * ![1](/README_utils/5.png)
 
-* PS: The pre-trained module is only trained with about 1k images and 6k epochs due to lack of computation and break down of our grapic cards. So the result may not be good enough. We strongly encourage you to train it with more images and epochs.
+* PS: The pre-trained module is only trained with about 1k images and 6k epochs due to lack of computation and break down of our graphic cards. So the result may not be good enough. We strongly encourage you to train it with more images and epochs.
 
 ## Database
 
