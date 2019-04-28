@@ -1,4 +1,4 @@
-# 7398project black and white anime image colorization
+# EECE7398 project: black and white anime image colorization
 
 ## Overview
 
